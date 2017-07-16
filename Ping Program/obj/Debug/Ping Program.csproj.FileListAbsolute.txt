@@ -1,0 +1,14 @@
+c:\users\oomir\documents\visual studio 2017\Projects\Ping Program\Ping Program\bin\Debug\Ping Program.exe.config
+c:\users\oomir\documents\visual studio 2017\Projects\Ping Program\Ping Program\bin\Debug\Ping Program.exe
+c:\users\oomir\documents\visual studio 2017\Projects\Ping Program\Ping Program\bin\Debug\Ping Program.pdb
+c:\users\oomir\documents\visual studio 2017\Projects\Ping Program\Ping Program\obj\Debug\Ping Program.csprojResolveAssemblyReference.cache
+c:\users\oomir\documents\visual studio 2017\Projects\Ping Program\Ping Program\obj\Debug\MainWindow.g.cs
+c:\users\oomir\documents\visual studio 2017\Projects\Ping Program\Ping Program\obj\Debug\App.g.cs
+c:\users\oomir\documents\visual studio 2017\Projects\Ping Program\Ping Program\obj\Debug\Ping Program_MarkupCompile.cache
+c:\users\oomir\documents\visual studio 2017\Projects\Ping Program\Ping Program\obj\Debug\Ping Program_MarkupCompile.lref
+c:\users\oomir\documents\visual studio 2017\Projects\Ping Program\Ping Program\obj\Debug\MainWindow.baml
+c:\users\oomir\documents\visual studio 2017\Projects\Ping Program\Ping Program\obj\Debug\Ping Program.g.resources
+c:\users\oomir\documents\visual studio 2017\Projects\Ping Program\Ping Program\obj\Debug\Ping_Program.Properties.Resources.resources
+c:\users\oomir\documents\visual studio 2017\Projects\Ping Program\Ping Program\obj\Debug\Ping Program.csproj.GenerateResource.Cache
+c:\users\oomir\documents\visual studio 2017\Projects\Ping Program\Ping Program\obj\Debug\Ping Program.exe
+c:\users\oomir\documents\visual studio 2017\Projects\Ping Program\Ping Program\obj\Debug\Ping Program.pdb
