@@ -12,3 +12,17 @@ c:\users\oomir\documents\visual studio 2017\Projects\Ping Program\Ping Program\o
 c:\users\oomir\documents\visual studio 2017\Projects\Ping Program\Ping Program\obj\Debug\Ping Program.csproj.GenerateResource.Cache
 c:\users\oomir\documents\visual studio 2017\Projects\Ping Program\Ping Program\obj\Debug\Ping Program.exe
 c:\users\oomir\documents\visual studio 2017\Projects\Ping Program\Ping Program\obj\Debug\Ping Program.pdb
+C:\Users\umar.safeer\Documents\Git\ping-program\Ping Program\bin\Debug\Ping Program.exe.config
+C:\Users\umar.safeer\Documents\Git\ping-program\Ping Program\obj\Debug\Ping Program.exe
+C:\Users\umar.safeer\Documents\Git\ping-program\Ping Program\obj\Debug\Ping Program.pdb
+C:\Users\umar.safeer\Documents\Git\ping-program\Ping Program\obj\Debug\Ping Program.csprojResolveAssemblyReference.cache
+C:\Users\umar.safeer\Documents\Git\ping-program\Ping Program\obj\Debug\MainWindow.g.cs
+C:\Users\umar.safeer\Documents\Git\ping-program\Ping Program\obj\Debug\App.g.cs
+C:\Users\umar.safeer\Documents\Git\ping-program\Ping Program\obj\Debug\Ping Program_MarkupCompile.cache
+C:\Users\umar.safeer\Documents\Git\ping-program\Ping Program\obj\Debug\Ping Program_MarkupCompile.lref
+C:\Users\umar.safeer\Documents\Git\ping-program\Ping Program\bin\Debug\Ping Program.exe
+C:\Users\umar.safeer\Documents\Git\ping-program\Ping Program\bin\Debug\Ping Program.pdb
+C:\Users\umar.safeer\Documents\Git\ping-program\Ping Program\obj\Debug\MainWindow.baml
+C:\Users\umar.safeer\Documents\Git\ping-program\Ping Program\obj\Debug\Ping Program.g.resources
+C:\Users\umar.safeer\Documents\Git\ping-program\Ping Program\obj\Debug\Ping_Program.Properties.Resources.resources
+C:\Users\umar.safeer\Documents\Git\ping-program\Ping Program\obj\Debug\Ping Program.csproj.GenerateResource.Cache
