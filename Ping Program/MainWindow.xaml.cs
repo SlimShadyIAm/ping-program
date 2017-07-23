@@ -24,9 +24,19 @@ namespace Ping_Program
     {
         Dictionary<string, string> servers = new Dictionary<string, string>()
         {
-            {"US East 1", "172.29.7.41"},
-            {"Fake Server", "172.9.7.41"},
-            {"US West 2", "127.0.0.1" }
+            {"US East 1", "23.23.255.255"},
+            {"US East 2", "13.58.0.253"},
+            {"US West 1", "13.56.63.251"},
+            {"US West 2", "34.208.63.251"},
+            {"US Central 1", "35.182.0.251"},
+            {"EU West 1", "34.248.60.213"},
+            {"EU West 2", "35.176.0.252"},
+            {"EU Central 1", "35.156.63.252"},
+            {"Asia Northeast 1", "13.112.63.251"},
+            {"Asia Northeast 2", "13.124.63.251"},
+            {"Asia Southeast 1", "13.228.0.251"},
+            {"Asia Southeast 2", "13.54.63.252"},
+            {"Asia South", "13.126.0.252"}
         };
 
         public MainWindow()

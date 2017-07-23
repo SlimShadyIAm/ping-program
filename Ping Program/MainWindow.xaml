@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Ping_Program"
         mc:Ignorable="d"
-        Title="Ping Program" Height="600" Width="400">
+        Title="Ping Program" Height="800" Width="500">
 
     <StackPanel Margin="10 10">
         <TextBlock HorizontalAlignment="Center" Text="Ping Tester" FontSize="16" />

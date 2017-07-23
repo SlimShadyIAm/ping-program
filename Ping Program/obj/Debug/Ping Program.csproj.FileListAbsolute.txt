@@ -26,3 +26,17 @@ C:\Users\umar.safeer\Documents\Git\ping-program\Ping Program\obj\Debug\MainWindo
 C:\Users\umar.safeer\Documents\Git\ping-program\Ping Program\obj\Debug\Ping Program.g.resources
 C:\Users\umar.safeer\Documents\Git\ping-program\Ping Program\obj\Debug\Ping_Program.Properties.Resources.resources
 C:\Users\umar.safeer\Documents\Git\ping-program\Ping Program\obj\Debug\Ping Program.csproj.GenerateResource.Cache
+C:\Users\Oomir\Documents\Git\ping-program\Ping Program\bin\Debug\Ping Program.exe.config
+C:\Users\Oomir\Documents\Git\ping-program\Ping Program\bin\Debug\Ping Program.exe
+C:\Users\Oomir\Documents\Git\ping-program\Ping Program\bin\Debug\Ping Program.pdb
+C:\Users\Oomir\Documents\Git\ping-program\Ping Program\obj\Debug\Ping Program.csprojResolveAssemblyReference.cache
+C:\Users\Oomir\Documents\Git\ping-program\Ping Program\obj\Debug\MainWindow.g.cs
+C:\Users\Oomir\Documents\Git\ping-program\Ping Program\obj\Debug\App.g.cs
+C:\Users\Oomir\Documents\Git\ping-program\Ping Program\obj\Debug\Ping Program_MarkupCompile.cache
+C:\Users\Oomir\Documents\Git\ping-program\Ping Program\obj\Debug\Ping Program_MarkupCompile.lref
+C:\Users\Oomir\Documents\Git\ping-program\Ping Program\obj\Debug\MainWindow.baml
+C:\Users\Oomir\Documents\Git\ping-program\Ping Program\obj\Debug\Ping Program.g.resources
+C:\Users\Oomir\Documents\Git\ping-program\Ping Program\obj\Debug\Ping_Program.Properties.Resources.resources
+C:\Users\Oomir\Documents\Git\ping-program\Ping Program\obj\Debug\Ping Program.csproj.GenerateResource.Cache
+C:\Users\Oomir\Documents\Git\ping-program\Ping Program\obj\Debug\Ping Program.exe
+C:\Users\Oomir\Documents\Git\ping-program\Ping Program\obj\Debug\Ping Program.pdb
